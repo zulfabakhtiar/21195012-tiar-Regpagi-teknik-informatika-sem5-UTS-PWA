@@ -1,0 +1,16 @@
+{
+  "name": "cv pwa",
+  "short_name": "cv",
+  "icons": [{
+    "src": "/images/Ikon.png",
+      "sizes": "225x225",
+      "type": "image/png"
+    }],
+  "lang": "en-US",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "white",
+  "theme_color": "white",
+
+  "permissions": ["notifications"] 
+}
